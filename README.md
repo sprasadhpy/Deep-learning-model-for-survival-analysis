@@ -7,14 +7,12 @@ The International Accounting Standards Board (IASB) revised their accounting sta
 [Notebook]:
 [Dataset]: Properietory 
 
-#[Results]:
+**Results:**
 
-#Pycox[DeepSurv Library]
-
+**#Pycox[DeepSurv Library]**
 Survival probabilities 
 ![Survival probabilites](https://user-images.githubusercontent.com/40602129/219286654-3f953b15-4ea0-4123-8fd8-c1d7922529c4.png)
 
-#Coxx CC method
-
+**#Coxx CC method**
 Survival probabilities 
 ![Coxx CC method](https://user-images.githubusercontent.com/40602129/219286673-930127fb-f27c-4e21-aa6a-8989bbea9912.png)
